@@ -1,0 +1,14 @@
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\MiniProject.Repo.dll.config
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\MiniProject.Repo.dll
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\MiniProject.Repo.pdb
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\EntityFramework.dll
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\MiniProject.Model.dll
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\MiniProject.ViewModel.dll
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\MiniProject.Model.pdb
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\MiniProject.ViewModel.pdb
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\EntityFramework.xml
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\obj\Debug\MiniProject.Repo.csprojResolveAssemblyReference.cache
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\obj\Debug\MiniProject.Repo.dll
+E:\Bootcamp #164\MiniProject2\MiniProject\MiniProject.Repo\obj\Debug\MiniProject.Repo.pdb
